@@ -1,6 +1,6 @@
   Hey I'm Nick!
  
-I just graduated from university with my B.S. with a concentration in software development.
+I just graduated from university with my B.S. in computer programming
 I'm looking forward to dive into the full-stack and game development!
 
 Most of my repositories will be archived school projects- however I hope to put out some more public passion projects as time progresses.
