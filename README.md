@@ -1,4 +1,4 @@
-  Hello I'm Nick!
+  Hey I'm Nick!
  
 I just graduated from university with my B.S. with a concentration in software development.
 I'm looking forward to dive into the full-stack and game development!
