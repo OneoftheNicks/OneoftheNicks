@@ -1,4 +1,4 @@
-  Hey I'm Nick!
+  Hello, I'm Nick Thomas
  
 I just graduated from university with my B.S. in computer programming
 I'm looking forward to dive into the full-stack and game development!
